@@ -18,12 +18,15 @@ El backend esta construido bajo .NET 8. Por lo tanto, para su correcto funcionam
 
 ## Ejecutando las pruebas ⚙️
 
-El proyecto puede ser ejecutado vía web y también visualizando el vídeo de sustentación que se encuentra en youtube.
+El proyecto puede ser ejecutado vía web y también visualizando el vídeo de sustentación que se encuentra en OneDrivw.
 
 ## Despliegue 📦
 Puede acceder al sitio se puede realizar por medio de la URL.
 
 https://ultragroupapi-d7cubqbchecufjdc.eastus-01.azurewebsites.net/swagger/index.html
+
+Documentacion
+https://1drv.ms/f/s!AoGek0GGPAXi7UniOL3K9iRXz5nQ?e=VNzeKm
 
 ## Construido con 🛠️
 
